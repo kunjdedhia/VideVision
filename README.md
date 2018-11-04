@@ -1,4 +1,5 @@
 # VideVision
+Having an eye watch over you, when you aren't watching.
 
 ## Inspiration
 We believe that people should be aware of real-time crime zones around cities before travelling to a certain place be it for work or a vacation. We want to make sure that everyone in the community stays safe and does not get caught in any violent accidents.  
